@@ -1,16 +1,63 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</p>
 
-<!--
-**AguiarNeto/AguiarNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Aguiar 👋
 
-Here are some ideas to get you started:
+I'm a Front-End Developer and aspiring IT Support Analyst passionate about building mordern, responsive, user-friendly web interfaces and solving technical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+- 🎨 Front-End Development
+- 🖥️ IT Support / Help Desk
+- 🌐 Responsive Web Design
+- 🛠️ Troubleshooting & Technical Support
+
+## 🚀 Tech Stack
+
+## Front-End
+
+- HTML5
+- CSS3
+- Tailwind CSS
+- Javascript (ES6+)
+- React
+- Git & GitHub
+
+## IT & Support
+
+- Windows
+- Linux
+- Git & GitHub
+- Hardware Troubleshooting
+- Networking Basics
+- Technical Support
+
+## 🌱 Currently Learning
+
+- React
+- Node.js
+- Cybersecurity Fundamentals
+- Linux
+- Networking
+
+## 🎯 Goals
+
+- Front-End Developer
+- Help desk / Technical Support
+- Remote Opportunities
+
+## 📬 Contact
+
+- Github: https://github.com/AguiarNeto
+- LinkedIn: https://www.linkedin.com/in/jos%C3%A9-neto-a8679a330/
+- Email: jn252696@gmail.com
+
+--- 
+
+⭐ Thanks for visiting my profile!
+
